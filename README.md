@@ -27,7 +27,7 @@
 
 ## Tools
 
-  - [Listening Back](https://jasmineguffond.com/art/Listening+Back)
+  - [Listening Back (Browser extension/add-on)](https://jasmineguffond.com/art/Listening+Back)
     - _"Listening Back browser add-on sonifies Internet cookies in real-time."_   
 
 ## Public-interest Technologists & Groups
