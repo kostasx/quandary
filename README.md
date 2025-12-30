@@ -4,19 +4,33 @@
 
 ## Prologue
 
-> _"As technology—especially computer, information, and Internet technology—permeates all aspects of our society,
-> people who understand that technology need to be part of public-policy discussions.
-> **We need technologists who work in the public interest**.
-> We need public-interest technologists."_
-> [Bruce Schneier](https://public-interest-tech.com/)
+  > _"As technology—especially computer, information, and Internet technology—permeates all aspects of our society,
+  > people who understand that technology need to be part of public-policy discussions.
+  > **We need technologists who work in the public interest**.
+  > We need public-interest technologists."_
+  > [Bruce Schneier](https://public-interest-tech.com/)
 
-> "The inferno of the living is not something that will be; if there is one, **it is what is already here**,
-> the inferno where we live every day, that we form by being together. There are two ways to escape suffering it.
-> The first is easy for many: accept the inferno and become such a part of it that you can no longer see it.
-> The second is risky and demands constant vigilance and apprehension: **seek and learn to recognize who and what,**
-> **in the midst of the inferno, are not inferno, then make them endure, give them space**."
-> 
-> Italo Calvino, _Invisible Cities_
+  > "The inferno of the living is not something that will be; if there is one, **it is what is already here**,
+  > the inferno where we live every day, that we form by being together. There are two ways to escape suffering it.
+  > The first is easy for many: accept the inferno and become such a part of it that you can no longer see it.
+  > The second is risky and demands constant vigilance and apprehension: **seek and learn to recognize who and what,**
+  > **in the midst of the inferno, are not inferno, then make them endure, give them space**."
+  > 
+  > Italo Calvino, _Invisible Cities_
+
+---
+
+## Public-interest Technologists & Groups
+
+  **Technologists**
+
+  - [Bruce Schneier](https://public-interest-tech.com/)
+  - [Latanya Sweeney, Ph.D.](https://latanyasweeney.org)
+
+  **Groups**
+
+  - [Public Interest Tech Lab](https://techlab.org/)
+  - [The Citizen Lab](https://citizenlab.ca/)
 
 ---
 
