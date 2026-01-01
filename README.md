@@ -25,14 +25,18 @@
   - Watch: [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
   - [Carissa Véliz on The Power of Privacy | WIRED Briefings](https://www.youtube.com/watch?v=GiImurVYAl8)
 
-## On Artificial Intelligence
-
-  - Check [Artificial Intelligence](./AI.md)
-
-## Tools
+  **Tools**
 
   - [Listening Back (Browser extension/add-on)](https://jasmineguffond.com/art/Listening+Back)
     - _"Listening Back browser add-on sonifies Internet cookies in real-time."_   
+
+## On The Environment
+
+  - Check [ENVIRONMENT.md](./ENVIRONMENT.md)
+
+## On Artificial Intelligence
+
+  - Check [Artificial Intelligence](./AI.md)
 
 ## Public-interest Technologists & Groups
 
