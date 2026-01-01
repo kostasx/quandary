@@ -22,8 +22,12 @@
 
 ## On Data & Privacy
 
-  - [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
+  - Watch: [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
   - [Carissa Véliz on The Power of Privacy | WIRED Briefings](https://www.youtube.com/watch?v=GiImurVYAl8)
+
+## On Artificial Intelligence
+
+  - Check [Artificial Intelligence](./AI.md)
 
 ## Tools
 
