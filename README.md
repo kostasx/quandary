@@ -30,6 +30,12 @@
   - [Listening Back (Browser extension/add-on)](https://jasmineguffond.com/art/Listening+Back)
     - _"Listening Back browser add-on sonifies Internet cookies in real-time."_   
 
+## On Public Relations (PR)
+
+  > _"Public relations (PR) is the practice of managing and disseminating information from an individual or an organization (such as a business, government agency, or a nonprofit organization) to the public in order to influence their perception."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Public_relations) | [Revision link](https://en.wikipedia.org/w/index.php?title=Public_relations&oldid=1321995911)
+
+  - Check [Public Relations](./PR.md)
+  
 ## On The Environment
 
   - Check [ENVIRONMENT.md](./ENVIRONMENT.md)
