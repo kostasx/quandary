@@ -16,8 +16,8 @@
 
 ## BIBLIOGRAPHY
 
-    - [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World, Bruce Schneier](https://www.schneier.com/books/data-and-goliath/)
+  - [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World, Bruce Schneier](https://www.schneier.com/books/data-and-goliath/)
 
-    - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
+  - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
 
-    - [Permanent Record, Edward Snowden](https://www.goodreads.com/book/show/46223297-permanent-record)
+  - [Permanent Record, Edward Snowden](https://www.goodreads.com/book/show/46223297-permanent-record)
