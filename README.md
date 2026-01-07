@@ -20,6 +20,10 @@
 
 ---
 
+## On Cybersecurity
+
+  - Check [CYBERSECURITY.md](./CYBERSECURITY.md)
+
 ## On Data & Privacy
 
   - Check [PRIVACY.md](./PRIVACY.md)
