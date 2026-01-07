@@ -12,7 +12,7 @@
 
   - [Electronic Frontier Foundation](https://www.eff.org/): "The leading nonprofit defending digital privacy, free speech, and innovation."
 
-  ![](../assets/eff-logo-stack-black.svg)
+  ![](../assets/PRIVACY/eff-logo-stack-black.svg)
 
   **Tools**
 
