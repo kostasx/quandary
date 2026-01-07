@@ -8,6 +8,10 @@
   - Watch: [Carissa Véliz on The Power of Privacy](https://www.youtube.com/watch?v=GiImurVYAl8)
   - Watch: [Carissa Veliz: Exposing Big Tech, Privacy Threats & The Future of Artificial Intelligence](https://www.youtube.com/watch?v=HHwGat02v3Q)
 
+  **Organizations**
+
+  - [Electronic Frontier Foundation](https://www.eff.org/): "The leading nonprofit defending digital privacy, free speech, and innovation."
+
   **Tools**
 
   - [DuckDuckGo Browser: The browser that actively protects your personal information](https://duckduckgo.com/app)
