@@ -12,6 +12,8 @@
 
   - [Electronic Frontier Foundation](https://www.eff.org/): "The leading nonprofit defending digital privacy, free speech, and innovation."
 
+  ![](../assets/eff-logo-stack-black.svg)
+
   **Tools**
 
   - [DuckDuckGo Browser: The browser that actively protects your personal information](https://duckduckgo.com/app)
