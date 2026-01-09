@@ -28,6 +28,14 @@
 
   - Check [PRIVACY.md](./PRIVACY.md)
 
+## On Big Tech
+
+  - Check [BIG-TECH](./BIG-TECH.md)
+
+## On Social Media
+
+  - Check [SOCIAL-MEDIA](./SOCIAL-MEDIA.md)
+
 ## On Public Relations (PR)
 
   > _"Public relations (PR) is the practice of managing and disseminating information from an individual or an organization (such as a business, government agency, or a nonprofit organization) to the public in order to influence their perception."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Public_relations) | [Revision link](https://en.wikipedia.org/w/index.php?title=Public_relations&oldid=1321995911)

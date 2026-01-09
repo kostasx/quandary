@@ -20,6 +20,10 @@
   - [Listening Back (Browser extension/add-on)](https://jasmineguffond.com/art/Listening+Back)
     - _"Listening Back browser add-on sonifies Internet cookies in real-time."_   
 
+## TERMINOLOGY
+
+  - [Third-party doctrine](https://en.wikipedia.org/wiki/Third-party_doctrine)
+
 ## BIBLIOGRAPHY
 
   - [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World, Bruce Schneier](https://www.schneier.com/books/data-and-goliath/)
