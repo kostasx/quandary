@@ -8,6 +8,8 @@
   - Watch: [Carissa Véliz on The Power of Privacy](https://www.youtube.com/watch?v=GiImurVYAl8)
   - Watch: [Carissa Veliz: Exposing Big Tech, Privacy Threats & The Future of Artificial Intelligence](https://www.youtube.com/watch?v=HHwGat02v3Q)
 
+  - Read: [Greece a testing ground for smart surveillance technologies](https://wearesolomon.com/mag/format/investigation/greece-a-testing-ground-for-smart-surveillance-technologies/)
+
   **Organizations**
 
   - [Electronic Frontier Foundation](https://www.eff.org/): "The leading nonprofit defending digital privacy, free speech, and innovation."
