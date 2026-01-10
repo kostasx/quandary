@@ -20,15 +20,21 @@
 
 ---
 
+## On Cybersecurity
+
+  - Check [CYBERSECURITY.md](./CYBERSECURITY.md)
+
 ## On Data & Privacy
 
-  - Watch: [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
-  - [Carissa Véliz on The Power of Privacy | WIRED Briefings](https://www.youtube.com/watch?v=GiImurVYAl8)
+  - Check [PRIVACY.md](./PRIVACY.md)
 
-  **Tools**
+## On Big Tech
 
-  - [Listening Back (Browser extension/add-on)](https://jasmineguffond.com/art/Listening+Back)
-    - _"Listening Back browser add-on sonifies Internet cookies in real-time."_   
+  - Check [BIG-TECH](./BIG-TECH.md)
+
+## On Social Media
+
+  - Check [SOCIAL-MEDIA](./SOCIAL-MEDIA.md)
 
 ## On Public Relations (PR)
 
