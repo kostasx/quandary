@@ -16,9 +16,12 @@
 
   - [Empire of AI](https://karendhao.com/)
 
-    ![](./assets/ALGORITHMS/)
+    ![](./assets/ALGORITHMS/Karen.Hao.Empire.of.AI.jpg)
 
   - [The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want](https://thecon.ai/)
+
+    ![](./assets/ALGORITHMS/The.AI.Con.png)
+
   - [Hello World: How to Be Human in the Age of the Machine](https://en.wikipedia.org/wiki/Hello_World%3A_How_to_be_Human_in_the_Age_of_the_Machine)
 
     ![](./assets/ALGORITHMS/Hannah.Fry.Hello.World.png)
