@@ -61,6 +61,7 @@
 
   - [Public Interest Tech Lab](https://techlab.org/)
   - [The Citizen Lab](https://citizenlab.ca/)
+  - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
 
 ---
 
