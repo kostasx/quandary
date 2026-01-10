@@ -46,9 +46,9 @@
 
   - Check [ENVIRONMENT.md](./ENVIRONMENT.md)
 
-## On Artificial Intelligence
+## On Algorithms & Artificial Intelligence
 
-  - Check [Artificial Intelligence](./AI.md)
+  - Check [Algorithms & Artificial Intelligence](./ALGORITHMS.md)
 
 ## Public-interest Technologists & Groups
 
