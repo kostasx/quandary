@@ -1,5 +1,12 @@
 # people
 
+## BIG TECH
+
+  - [Lilly Irani](https://quote.ucsd.edu/lirani/)
+    > Associate Professor, Communication, Science Studies, Computer Science, Critical Gender Studies, Design Lab | UC San Diego
+    >
+    > _"Broadly, my research investigates the cultural politics of high-tech work practices with a focus on how actors produce “innovation” cultures."_
+
 ## PRIVACY
 
   - [Bruce Schneier](https://www.schneier.com/)
