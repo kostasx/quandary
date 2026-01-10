@@ -10,10 +10,15 @@
   - Watch: [The Labor that Makes AI "Magic" | Lilly Irani | AI Now 2016](https://www.youtube.com/watch?v=5vXqpc2jCKs)
 
   - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
+  - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
 
 ## BIBLIOGRAPHY
+
+  - [Empire of AI](https://karendhao.com/)
+
+    ![](./assets/ALGORITHMS/)
 
   - [The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want](https://thecon.ai/)
   - [Hello World: How to Be Human in the Age of the Machine](https://en.wikipedia.org/wiki/Hello_World%3A_How_to_be_Human_in_the_Age_of_the_Machine)
 
-    ![](./assets/ALGORITHMS/)
+    ![](./assets/ALGORITHMS/Hannah.Fry.Hello.World.png)

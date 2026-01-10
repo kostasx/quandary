@@ -1,5 +1,9 @@
 # people
 
+## ALGORITHMS & ARTIFICIAL INTELLIGENCE
+
+  - [Karen Hao](https://karendhao.com/)
+
 ## BIG TECH
 
   - [Lilly Irani](https://quote.ucsd.edu/lirani/)
