@@ -12,6 +12,10 @@
   - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
   - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
 
+## TERMINOLOGY
+
+  - **Gait Recognition:** _"A gait recognition (software) system uses the shape of the human body and the way it moves in order to identify it."_ [(Source)](https://recfaces.com/articles/what-is-gait-recognition)
+
 ## BIBLIOGRAPHY
 
   - [Empire of AI](https://karendhao.com/)
