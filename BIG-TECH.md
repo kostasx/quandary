@@ -2,7 +2,8 @@
 
 ## RESOURCES
 
-  - Watch: [Speaker Series: Lilly Irani "Claiming Democracy over Digital Infrastructures"](https://www.youtube.com/watch?v=TBOVk7TJ6XU)
+  - Watch: [Lilly Irani "Claiming Democracy over Digital Infrastructures"](https://www.youtube.com/watch?v=TBOVk7TJ6XU)
+  - Watch: [Silicon Valley mastermind - Who’s behind Palantir's "Gotham" surveillance software?](https://www.youtube.com/watch?v=hN-mEGLF_6w)
 
   **Platform & Gig Economy**
 
