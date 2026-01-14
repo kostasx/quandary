@@ -24,6 +24,14 @@
   - Read the Report by the [DAIR Institute](https://www.dair-institute.org/): [DRIVEN DOWN: How Workplace Technology Enables Amazon to Steal Wages, Hide Labor,
 Intensify Poor Working Conditions, and Evade Responsibility](https://www.dair-institute.org/projects/driven-down/)
 
+### DATA CENTERS
+
+  - Listen: [Data Centers Are a Climate Enemy](https://www.techwontsave.us/episode/304_data_centers_are_a_climate_enemy_w_ketan_joshi)
+
+  **Resources:**
+
+  - [Data Center Watch](https://www.datacenterwatch.org/)
+
 ## TERMINOLOGY
 
   - **Gig Economy**: _"The gig economy, also known as the sharing or access economy, features temporary, freelance, and part-time positions often filled by independent contractors. While offering flexibility and independence to workers, it removes job security and benefits like health insurance and paid leave. Companies save costs by hiring freelancers without these benefits."_ [Source: Investopedia](https://www.investopedia.com/terms/g/gig-economy.asp)
