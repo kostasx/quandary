@@ -7,6 +7,16 @@
 ## RESOURCES
 
   - Watch: [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
+
+  - Watch: ['State of Surveillance' with Edward Snowden](https://www.youtube.com/watch?v=ucRWyGKBVzo)
+
+    > _"Even if you trust the government today
+    > what happens when it changes?
+    > In our democracy we're never more than 8 years away
+    > from a total change of government.
+    > Suddenly, everybody is vulnerable to this individual
+    > and **the systems are already in place**."_
+
   - Watch: [Edward Snowden: How Your Cell Phone Spies on You](https://www.youtube.com/watch?v=VFns39RXPrU)
   - Watch: [Data and Goliath: The Hidden Battles to Collect Your Data | Bruce Schneier](https://www.youtube.com/watch?v=GhWJTWUvc7E)
   - Watch: [Carissa Véliz on The Power of Privacy](https://www.youtube.com/watch?v=GiImurVYAl8)
