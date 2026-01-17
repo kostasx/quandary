@@ -4,6 +4,10 @@
 >
 > [The Right to Privacy](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
 
+## DIGITAL FORENSICS
+
+  - [**Forensics Tools:** A list of free and open source forensics analysis tools and other resources.](https://github.com/mesquidar/ForensicsTools)
+
 ## RESOURCES
 
   - Watch: [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
@@ -39,6 +43,8 @@
 
 ## TERMINOLOGY
 
+  - **Computer Forensics:** _"Computer forensics (also known as computer forensic science) is a branch of digital forensic science pertaining to evidence found in computers and digital storage media."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Computer_forensics) (See: `Digital Forensics`)
+  - **Digital Forensics:** _"Digital forensics (sometimes known as digital forensic science) is a branch of forensic science encompassing the recovery, investigation, examination, and analysis of material found in digital devices."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Digital_forensics) (See: `Computer Forensics`)
   - [Third-party doctrine](https://en.wikipedia.org/wiki/Third-party_doctrine)
 
 ## BIBLIOGRAPHY
