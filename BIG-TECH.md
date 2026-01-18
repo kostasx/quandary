@@ -31,6 +31,8 @@ Intensify Poor Working Conditions, and Evade Responsibility](https://www.dair-in
   **Resources:**
 
   - [Data Center Watch](https://www.datacenterwatch.org/)
+  - [Frontier Data Centers by Epoch AI](https://epoch.ai/data/data-centers) _(Open database of large AI data centers, computing power, power use, and construction timelines)_
+
 
 ## TERMINOLOGY
 

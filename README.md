@@ -56,17 +56,23 @@
 
   - [Bruce Schneier](https://public-interest-tech.com/)
   - [Latanya Sweeney, Ph.D.](https://latanyasweeney.org)
+  - [Naomi Brockwell](https://naomibrockwell.com/)
+
+NBTV is a project of the Ludlow Institute, a research and media institute dedicated to helping you reclaim control of your digital life. Created and hosted by Naomi Brockwell.
 
   **Groups**
 
+  - [Amnesty Tech](https://www.amnesty.org/en/tech/)
   - [Public Interest Tech Lab](https://techlab.org/)
   - [The Citizen Lab](https://citizenlab.ca/)
   - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
+  - [Tactical Tech](https://tacticaltech.org/) _(A creative international non-profit dedicated to exploring the socio-political and environmental impacts of technology on society.)_
 
 ## Investigative Journalism / Public-Interest Media
 
   - [404 Media](https://www.404media.co/)
   - [ProPublica](https://www.propublica.org/)
+  - [Reporters Without Borders](https://rsf.org/en)
   - [Solomon](https://wearesolomon.com/about/)
 
 ---

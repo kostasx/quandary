@@ -35,6 +35,9 @@
 
   ![](../assets/PRIVACY/eff-logo-stack-black.svg)
 
+  - [Security Lab by Amnesty International](https://securitylab.amnesty.org/)
+  - [Naomi Brockwell TV](https://www.youtube.com/@NaomiBrockwellTV/)
+
   **Tools**
 
   - [DuckDuckGo Browser: The browser that actively protects your personal information](https://duckduckgo.com/app)

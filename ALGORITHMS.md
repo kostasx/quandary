@@ -2,20 +2,23 @@
 
 ## On Artificial Intelligence
 
+  - Read: [The Illusion of AI](https://tacticaltech.org/news/insights/illusion-ai/)
+
   - Watch: [Being in the World](https://www.youtube.com/watch?v=fcCRmf_tHW8) _(award winning documentary by Tao Ruspoli)_
     - [IMDB](https://www.imdb.com/title/tt1515195/)
+  - Watch: [The Labor that Makes AI "Magic" | Lilly Irani | AI Now 2016](https://www.youtube.com/watch?v=5vXqpc2jCKs)
+
+  **Resources:**
+
+
+  - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
+  - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
+  - [AI Models by Epoch AI](https://epoch.ai/data/ai-models) _(A comprehensive database of over 3200 AI models)_
 
 ## On Racism, Bias & Discrimination
 
   - Watch: [Algorithms of Suspicion by Lilly Irani - Centre for Digital Culture](https://www.youtube.com/watch?v=iAK5nhCF-nk)
   - Watch: [AI and Gender (UNESCO)](https://www.youtube.com/watch?v=V-nIJhWcL0Y)
-
-## RESOURCES
-
-  - Watch: [The Labor that Makes AI "Magic" | Lilly Irani | AI Now 2016](https://www.youtube.com/watch?v=5vXqpc2jCKs)
-
-  - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
-  - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
 
 ## TERMINOLOGY
 
