@@ -1,4 +1,9 @@
-# Artificial Intelligence
+# Algorithms & Artificial Intelligence
+
+## On Artificial Intelligence
+
+  - Watch: [Being in the World](https://www.youtube.com/watch?v=fcCRmf_tHW8) _(award winning documentary by Tao Ruspoli)_
+    - [IMDB](https://www.imdb.com/title/tt1515195/)
 
 ## On Racism, Bias & Discrimination
 
