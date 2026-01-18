@@ -58,8 +58,6 @@
   - [Latanya Sweeney, Ph.D.](https://latanyasweeney.org)
   - [Naomi Brockwell](https://naomibrockwell.com/)
 
-NBTV is a project of the Ludlow Institute, a research and media institute dedicated to helping you reclaim control of your digital life. Created and hosted by Naomi Brockwell.
-
   **Groups**
 
   - [Amnesty Tech](https://www.amnesty.org/en/tech/)
