@@ -28,11 +28,16 @@ Intensify Poor Working Conditions, and Evade Responsibility](https://www.dair-in
 
   - Listen: [Data Centers Are a Climate Enemy](https://www.techwontsave.us/episode/304_data_centers_are_a_climate_enemy_w_ketan_joshi)
 
+  - Watch: [Exposing The Dark Side of America's AI Data Center Explosion](https://www.youtube.com/watch?v=t-8TDOFqkQA)
+
   **Resources:**
 
   - [Data Center Watch](https://www.datacenterwatch.org/)
   - [Frontier Data Centers by Epoch AI](https://epoch.ai/data/data-centers) _(Open database of large AI data centers, computing power, power use, and construction timelines)_
+  
+  **FAQ**
 
+  - [Which factors set the electricity price?](./assets/BIG-TECH/DOCS/Which%20factors%20set%20the%20electricity%20price.md)
 
 ## TERMINOLOGY
 
