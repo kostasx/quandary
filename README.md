@@ -69,6 +69,7 @@
 ## Investigative Journalism / Public-Interest Media
 
   - [404 Media](https://www.404media.co/)
+  - [Forensic Architecture](https://substack.com/@forensicarchitecture) | [YouTube](https://www.youtube.com/@forensicarchitecture1967)
   - [ProPublica](https://www.propublica.org/)
   - [Reporters Without Borders](https://rsf.org/en)
   - [Solomon](https://wearesolomon.com/about/)
