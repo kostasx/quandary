@@ -74,6 +74,11 @@
   - [Reporters Without Borders](https://rsf.org/en)
   - [Solomon](https://wearesolomon.com/about/)
 
+  **Greece**
+
+  - [Homo Digitalis](https://homodigitalis.gr/)
+  - [Solomon](https://wearesolomon.com/about/)
+
 ---
 
 _Inspired by [https://public-interest-tech.com/](https://public-interest-tech.com/)_
