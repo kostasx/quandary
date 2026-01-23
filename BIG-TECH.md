@@ -4,6 +4,7 @@
 
   - Watch: [Lilly Irani "Claiming Democracy over Digital Infrastructures"](https://www.youtube.com/watch?v=TBOVk7TJ6XU)
   - Watch: [Silicon Valley mastermind - Who’s behind Palantir's "Gotham" surveillance software?](https://www.youtube.com/watch?v=hN-mEGLF_6w)
+  - Watch: [How Big Tech’s carbon offsets are threatening Kenyans](https://www.youtube.com/watch?v=1Qkef6br108)
 
   **Platform & Gig Economy**
 
