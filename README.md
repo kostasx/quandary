@@ -58,6 +58,10 @@
   - [Latanya Sweeney, Ph.D.](https://latanyasweeney.org)
   - [Naomi Brockwell](https://naomibrockwell.com/)
 
+  **Researchers**
+
+  - [Andrew Iliadis](https://andrewiliadis.com/)
+
   **Groups**
 
   - [Amnesty Tech](https://www.amnesty.org/en/tech/)

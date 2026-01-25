@@ -1,5 +1,9 @@
 # BIG TECH
 
+  **Case Studies:**
+
+  - [Palantir](./BIG-TECH/PALANTIR.md)
+
 ## RESOURCES
 
   - Watch: [Lilly Irani "Claiming Democracy over Digital Infrastructures"](https://www.youtube.com/watch?v=TBOVk7TJ6XU)

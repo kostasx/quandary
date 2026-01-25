@@ -25,6 +25,7 @@
   - Watch: [Data and Goliath: The Hidden Battles to Collect Your Data | Bruce Schneier](https://www.youtube.com/watch?v=GhWJTWUvc7E)
   - Watch: [Carissa Véliz on The Power of Privacy](https://www.youtube.com/watch?v=GiImurVYAl8)
   - Watch: [Carissa Veliz: Exposing Big Tech, Privacy Threats & The Future of Artificial Intelligence](https://www.youtube.com/watch?v=HHwGat02v3Q)
+  - Watch: [Surveillance as a Service](https://www.youtube.com/watch?v=UYz_7WD7yqc)
 
   - Read: [Greece a testing ground for smart surveillance technologies](https://wearesolomon.com/mag/format/investigation/greece-a-testing-ground-for-smart-surveillance-technologies/)
   - Read: [The Right to Privacy, By Samuel D. Warren and Louis D. Brandeis](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
