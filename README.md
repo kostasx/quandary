@@ -78,6 +78,7 @@
   - [ProPublica](https://www.propublica.org/)
   - [Reporters Without Borders](https://rsf.org/en)
   - [Solomon](https://wearesolomon.com/about/)
+  - [The Markup](https://themarkup.org/)
 
   **Greece**
 
