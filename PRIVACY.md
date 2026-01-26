@@ -30,14 +30,15 @@
   - Read: [Greece a testing ground for smart surveillance technologies](https://wearesolomon.com/mag/format/investigation/greece-a-testing-ground-for-smart-surveillance-technologies/)
   - Read: [The Right to Privacy, By Samuel D. Warren and Louis D. Brandeis](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
 
-  **Organizations**
+  **Organizations & Public-Interest Groups**
 
   - [Electronic Frontier Foundation](https://www.eff.org/): "The leading nonprofit defending digital privacy, free speech, and innovation."
 
   ![](../assets/PRIVACY/eff-logo-stack-black.svg)
 
-  - [Security Lab by Amnesty International](https://securitylab.amnesty.org/)
+  - [Lucy Parsons Labs](https://www.lucyparsonslabs.com/)
   - [Naomi Brockwell TV](https://www.youtube.com/@NaomiBrockwellTV/)
+  - [Security Lab by Amnesty International](https://securitylab.amnesty.org/)
 
   **Tools**
 
