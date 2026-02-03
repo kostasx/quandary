@@ -26,6 +26,7 @@
   - Watch: [Carissa Véliz on The Power of Privacy](https://www.youtube.com/watch?v=GiImurVYAl8)
   - Watch: [Carissa Veliz: Exposing Big Tech, Privacy Threats & The Future of Artificial Intelligence](https://www.youtube.com/watch?v=HHwGat02v3Q)
   - Watch: [Surveillance as a Service](https://www.youtube.com/watch?v=UYz_7WD7yqc)
+  - Watch: [Your face is ours: The dangers of facial recognition software • FRANCE 24 English](https://www.youtube.com/watch?v=N6boSMuunCc)
 
   - Read: [Greece a testing ground for smart surveillance technologies](https://wearesolomon.com/mag/format/investigation/greece-a-testing-ground-for-smart-surveillance-technologies/)
   - Read: [The Right to Privacy, By Samuel D. Warren and Louis D. Brandeis](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
