@@ -10,10 +10,13 @@
 
   **Resources:**
 
-
   - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
   - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
   - [AI Models by Epoch AI](https://epoch.ai/data/ai-models) _(A comprehensive database of over 3200 AI models)_
+
+  **Initiatives:**
+
+  - [QuitGPT](https://quitgpt.org/)
 
 ## On Racism, Bias & Discrimination
 
