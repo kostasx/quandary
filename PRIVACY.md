@@ -27,6 +27,9 @@
   - Watch: [Carissa Veliz: Exposing Big Tech, Privacy Threats & The Future of Artificial Intelligence](https://www.youtube.com/watch?v=HHwGat02v3Q)
   - Watch: [Surveillance as a Service](https://www.youtube.com/watch?v=UYz_7WD7yqc)
   - Watch: [Your face is ours: The dangers of facial recognition software • FRANCE 24 English](https://www.youtube.com/watch?v=N6boSMuunCc)
+  - Watch: [How Your Phone Can Be Weaponized Against You (Amnesty International)](https://www.youtube.com/watch?v=8r8MkMfvaPU)
+
+  ---
 
   - Read: [Greece a testing ground for smart surveillance technologies](https://wearesolomon.com/mag/format/investigation/greece-a-testing-ground-for-smart-surveillance-technologies/)
   - Read: [The Right to Privacy, By Samuel D. Warren and Louis D. Brandeis](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
@@ -40,6 +43,7 @@
   - [Lucy Parsons Labs](https://www.lucyparsonslabs.com/)
   - [Naomi Brockwell TV](https://www.youtube.com/@NaomiBrockwellTV/)
   - [Security Lab by Amnesty International](https://securitylab.amnesty.org/)
+  - [The Citizen Lab (Toronto)](https://citizenlab.ca/): "Counterintelligence for civil society."
 
   **Tools**
 
