@@ -28,6 +28,7 @@
   - Watch: [Surveillance as a Service](https://www.youtube.com/watch?v=UYz_7WD7yqc)
   - Watch: [Your face is ours: The dangers of facial recognition software • FRANCE 24 English](https://www.youtube.com/watch?v=N6boSMuunCc)
   - Watch: [How Your Phone Can Be Weaponized Against You (Amnesty International)](https://www.youtube.com/watch?v=8r8MkMfvaPU)
+  - Watch: [China - Surveillance state or way of the future? | DW Documentary](https://www.youtube.com/watch?v=7gSU_Xes3GQ)
 
   ---
 
