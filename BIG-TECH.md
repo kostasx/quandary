@@ -29,6 +29,10 @@
   - Read the Report by the [DAIR Institute](https://www.dair-institute.org/): [DRIVEN DOWN: How Workplace Technology Enables Amazon to Steal Wages, Hide Labor,
 Intensify Poor Working Conditions, and Evade Responsibility](https://www.dair-institute.org/projects/driven-down/)
 
+### WORKPLACE / LABOUR
+
+  - Read: [Worker Surveillance and Wage Theft](https://www.dair-institute.org/projects/driven-down/)
+
 ### DATA CENTERS
 
   - Listen: [Data Centers Are a Climate Enemy](https://www.techwontsave.us/episode/304_data_centers_are_a_climate_enemy_w_ketan_joshi)
