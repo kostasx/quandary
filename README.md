@@ -50,6 +50,10 @@
 
   - Check [Algorithms & Artificial Intelligence](./ALGORITHMS.md)
 
+## On Warfare
+
+  - Check [WARFARE](./WARFARE/WARFARE.md)
+
 ## Public-interest Technologists & Groups
 
   **Technologists**
