@@ -11,7 +11,6 @@
 ## RESOURCES
 
   - Watch: [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
-
   - Watch: ['State of Surveillance' with Edward Snowden](https://www.youtube.com/watch?v=ucRWyGKBVzo)
 
     > _"Even if you trust the government today
@@ -25,6 +24,7 @@
   - Watch: [Data and Goliath: The Hidden Battles to Collect Your Data | Bruce Schneier](https://www.youtube.com/watch?v=GhWJTWUvc7E)
   - Watch: [Carissa Véliz on The Power of Privacy](https://www.youtube.com/watch?v=GiImurVYAl8)
   - Watch: [Carissa Veliz: Exposing Big Tech, Privacy Threats & The Future of Artificial Intelligence](https://www.youtube.com/watch?v=HHwGat02v3Q)
+  - Watch: [Changing Threats To Privacy: From TIA to Google](https://www.youtube.com/watch?v=DoeNbZlxfUM)
   - Watch: [Surveillance as a Service](https://www.youtube.com/watch?v=UYz_7WD7yqc)
   - Watch: [Your face is ours: The dangers of facial recognition software • FRANCE 24 English](https://www.youtube.com/watch?v=N6boSMuunCc)
   - Watch: [How Your Phone Can Be Weaponized Against You (Amnesty International)](https://www.youtube.com/watch?v=8r8MkMfvaPU)
