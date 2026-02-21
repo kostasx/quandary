@@ -4,6 +4,9 @@
 
 ## Prologue
 
+  > _"Technologies are not neutral and neither are the societies into which they are introduced."_
+  > [Civics of Technology Project](https://www.civicsoftechnology.org/)
+
   > _"As technology—especially computer, information, and Internet technology—permeates all aspects of our society,
   > people who understand that technology need to be part of public-policy discussions.
   > **We need technologists who work in the public interest**.
@@ -73,6 +76,7 @@
   - [The Citizen Lab](https://citizenlab.ca/)
   - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
   - [Tactical Tech](https://tacticaltech.org/) _(A creative international non-profit dedicated to exploring the socio-political and environmental impacts of technology on society.)_
+  - [Civics of Technology Project](https://www.civicsoftechnology.org/): _"The Civics of Technology (CoT) project aims to empower students and educators to critically inquire into the effects of technologies on their individual and collective lives."_
 
 ## Investigative Journalism / Public-Interest Media
 
@@ -84,6 +88,7 @@
   - [Reporters Without Borders](https://rsf.org/en)
   - [Solomon](https://wearesolomon.com/about/)
   - [The Markup](https://themarkup.org/)
+  - [Brian Merchant](https://brianmerchant.org/)
 
   **Greece**
 
