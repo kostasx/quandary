@@ -52,6 +52,10 @@ Intensify Poor Working Conditions, and Evade Responsibility](https://www.dair-in
 
   - [Which factors set the electricity price?](./assets/BIG-TECH/DOCS/Which%20factors%20set%20the%20electricity%20price.md)
 
+### PRIVACY
+
+  - Check [PRIVACY.md](./PRIVACY.md)
+
 ## TERMINOLOGY
 
   - **Gig Economy**: _"The gig economy, also known as the sharing or access economy, features temporary, freelance, and part-time positions often filled by independent contractors. While offering flexibility and independence to workers, it removes job security and benefits like health insurance and paid leave. Companies save costs by hiring freelancers without these benefits."_ [Source: Investopedia](https://www.investopedia.com/terms/g/gig-economy.asp)

@@ -34,6 +34,7 @@
 
   - Read: [Greece a testing ground for smart surveillance technologies](https://wearesolomon.com/mag/format/investigation/greece-a-testing-ground-for-smart-surveillance-technologies/)
   - Read: [The Right to Privacy, By Samuel D. Warren and Louis D. Brandeis](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
+  - Read: [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
   **Organizations & Public-Interest Groups**
 
