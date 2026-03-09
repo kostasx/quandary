@@ -3,6 +3,7 @@
 ## On Artificial Intelligence
 
   - Read: [The Illusion of AI](https://tacticaltech.org/news/insights/illusion-ai/)
+  - Read: [Man files complaint after ChatGPT said he killed his children](https://www.bbc.com/news/articles/c0kgydkr516o)
 
   - Watch: [Being in the World](https://www.youtube.com/watch?v=fcCRmf_tHW8) _(award winning documentary by Tao Ruspoli)_
     - [IMDB](https://www.imdb.com/title/tt1515195/)
@@ -17,6 +18,10 @@
   **Initiatives:**
 
   - [QuitGPT](https://quitgpt.org/)
+
+  **Groups:**
+
+  - [Data Labelers Association: Championing Fair Treatment and Empowerment for Data Labelers in the AI Industry](https://www.linkedin.com/company/data-labelers-association/)
 
 ## On Racism, Bias & Discrimination
 
