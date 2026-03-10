@@ -10,6 +10,7 @@
   - Watch: [Silicon Valley mastermind - Who’s behind Palantir's "Gotham" surveillance software?](https://www.youtube.com/watch?v=hN-mEGLF_6w)
   - Watch: [How Big Tech’s carbon offsets are threatening Kenyans](https://www.youtube.com/watch?v=1Qkef6br108)
   - Watch: [Google, Facebook, Amazon - The rise of the mega-corporations](https://www.youtube.com/watch?v=Dy8ogOaKk4Y)
+  - Watch: [Amazon, Jeff Bezos and collecting data | DW Documentary](https://www.youtube.com/watch?v=O90PShJVu58)
 
   **Platform & Gig Economy**
 

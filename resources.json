@@ -1,0 +1,15 @@
+{
+    "$schema": "./resources.schema.json",
+    "resources": [
+        {
+            "title": "Amazon, Jeff Bezos and collecting data | DW Documentary",
+            "url": "https://www.youtube.com/watch?v=O90PShJVu58",
+            "duration": "00:42:25",
+            "type": "YouTube Video",
+            "tags": [
+                "Amazon",
+                "Jeff Bezos"
+            ]
+        }
+    ]
+}
