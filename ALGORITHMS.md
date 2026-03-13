@@ -8,6 +8,9 @@
   - Watch: [Being in the World](https://www.youtube.com/watch?v=fcCRmf_tHW8) _(award winning documentary by Tao Ruspoli)_
     - [IMDB](https://www.imdb.com/title/tt1515195/)
   - Watch: [The Labor that Makes AI "Magic" | Lilly Irani | AI Now 2016](https://www.youtube.com/watch?v=5vXqpc2jCKs)
+  - Watch: [Virtual love - How dangerous are AI relationships? | DW Documentary](https://www.youtube.com/watch?v=xAHLK1B5ijs)
+
+  - Listen: [Feminism vs the algorithm: Laura Bates sounds the alarm](https://www.youtube.com/watch?v=TZThXeXiV2Y)
 
   **Resources:**
 
