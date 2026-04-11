@@ -11,6 +11,7 @@
   - Watch: [How Big Tech’s carbon offsets are threatening Kenyans](https://www.youtube.com/watch?v=1Qkef6br108)
   - Watch: [Google, Facebook, Amazon - The rise of the mega-corporations](https://www.youtube.com/watch?v=Dy8ogOaKk4Y)
   - Watch: [Amazon, Jeff Bezos and collecting data | DW Documentary](https://www.youtube.com/watch?v=O90PShJVu58)
+  - Watch: [WTF: The Rise of the Tech Broligarchy (Series)](https://www.youtube.com/playlist?list=PL-wF0vCzYZMa5t3lz6Rm6vFIWekf7knhP)
 
   **Platform & Gig Economy**
 
