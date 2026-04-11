@@ -77,6 +77,7 @@
   - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
   - [Tactical Tech](https://tacticaltech.org/) _(A creative international non-profit dedicated to exploring the socio-political and environmental impacts of technology on society.)_
   - [Civics of Technology Project](https://www.civicsoftechnology.org/): _"The Civics of Technology (CoT) project aims to empower students and educators to critically inquire into the effects of technologies on their individual and collective lives."_
+  - [MediaJustice](https://mediajustice.org/): _"MediaJustice builds power to challenge how corporations and governments use media and technology to shape our collective future"_
 
 ## Investigative Journalism / Public-Interest Media
 
