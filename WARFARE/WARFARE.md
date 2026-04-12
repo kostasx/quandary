@@ -5,6 +5,8 @@
   - Watch: [Wired for War: The Robotics Revolution and Conflict in the 21st Cent (Part 1)](https://www.youtube.com/watch?v=dAomr3zUs3k)
   - Watch: [Wired for War: The Robotics Revolution and Conflict in the 21st Cent (Part 2)](https://www.youtube.com/watch?v=hHGcJ2rCyzc)
       - Read: [https://wiredwar.pwsinger.com/](https://wiredwar.pwsinger.com/)
+  - Watch: [Killer Robots (Amnesty International)](https://www.youtube.com/watch?v=XpExlhZQmZk)
+    - Read: [Killer Robots (Amnesty International)](https://www.amnesty.org/en/search/killer%20robots/)
 
 ## COMPANIES
 
