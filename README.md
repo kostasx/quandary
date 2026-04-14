@@ -23,6 +23,8 @@
 
 ---
 
+# _"More than machinery, we need humanity."_
+
 ## On Cybersecurity
 
   - Check [CYBERSECURITY.md](./CYBERSECURITY.md)
