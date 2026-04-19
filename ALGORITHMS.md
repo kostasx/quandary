@@ -33,6 +33,10 @@
   - Watch: [Algorithms of Suspicion by Lilly Irani - Centre for Digital Culture](https://www.youtube.com/watch?v=iAK5nhCF-nk)
   - Watch: [AI and Gender (UNESCO)](https://www.youtube.com/watch?v=V-nIJhWcL0Y)
 
+## On Health Care
+
+  - Read: [High Hopes for “Deep Medicine”? AI, Economics, and the Future of Care](https://onlinelibrary.wiley.com/doi/10.1002/hast.1079)
+
 ## TERMINOLOGY
 
   - **Gait Recognition:** _"A gait recognition (software) system uses the shape of the human body and the way it moves in order to identify it."_ [(Source)](https://recfaces.com/articles/what-is-gait-recognition)

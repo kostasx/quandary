@@ -70,6 +70,7 @@
   **Researchers**
 
   - [Andrew Iliadis](https://andrewiliadis.com/)
+  - [Robert Sparrow](https://robsparrow.com/)
 
   **Groups**
 
