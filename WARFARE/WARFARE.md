@@ -7,6 +7,8 @@
       - Read: [https://wiredwar.pwsinger.com/](https://wiredwar.pwsinger.com/)
   - Watch: [Killer Robots (Amnesty International)](https://www.youtube.com/watch?v=XpExlhZQmZk)
     - Read: [Killer Robots (Amnesty International)](https://www.amnesty.org/en/search/killer%20robots/)
+  - Watch: [The Dangerous Illusion of Precision Guidance](https://www.youtube.com/watch?v=ZrVqCzf3akA)
+    - From the Documentary [Why We Fight](https://www.imdb.com/title/tt0436971/) by Eugene Jarecki
 
 ## COMPANIES
 
