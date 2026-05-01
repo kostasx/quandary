@@ -102,3 +102,5 @@
 ---
 
 _Inspired by [https://public-interest-tech.com/](https://public-interest-tech.com/)_
+
+_Last updated: 01/05/2026_
