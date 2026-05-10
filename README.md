@@ -71,6 +71,7 @@
 
   - [Andrew Iliadis](https://andrewiliadis.com/)
   - [Robert Sparrow](https://robsparrow.com/)
+  - [Lilly Irani](https://quote.ucsd.edu/lirani/)
 
   **Groups**
 
