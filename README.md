@@ -74,6 +74,7 @@
   - [Lilly Irani](https://quote.ucsd.edu/lirani/)
   - [Zeynep Tufekci](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
   - [Shoshana Zuboff](https://shoshanazuboff.com/book/)
+  - [Sherry Turkle](https://sherryturkle.mit.edu/)
 
   **Groups**
 
