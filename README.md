@@ -67,11 +67,13 @@
   - [Latanya Sweeney, Ph.D.](https://latanyasweeney.org)
   - [Naomi Brockwell](https://naomibrockwell.com/)
 
-  **Researchers**
+  **Researchers / Scholars**
 
   - [Andrew Iliadis](https://andrewiliadis.com/)
   - [Robert Sparrow](https://robsparrow.com/)
   - [Lilly Irani](https://quote.ucsd.edu/lirani/)
+  - [Zeynep Tufekci](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
+  - [Shoshana Zuboff](https://shoshanazuboff.com/book/)
 
   **Groups**
 
