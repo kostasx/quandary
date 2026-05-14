@@ -52,6 +52,7 @@
   - [DuckDuckGo Browser: The browser that actively protects your personal information](https://duckduckgo.com/app)
   - [Listening Back (Browser extension/add-on)](https://jasmineguffond.com/art/Listening+Back)
     - _"Listening Back browser add-on sonifies Internet cookies in real-time."_   
+  - [How to remove yourself from the data broker websites (deleteme DIY guides)](https://www.deleteme.com/opt-out-guides/)
 
 ## TERMINOLOGY
 
