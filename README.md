@@ -75,6 +75,7 @@
   - [Zeynep Tufekci](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
   - [Shoshana Zuboff](https://shoshanazuboff.com/book/)
   - [Sherry Turkle](https://sherryturkle.mit.edu/)
+  - [Laura Bates](https://www.laurabates.co.uk/)
 
   **Groups**
 
