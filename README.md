@@ -76,6 +76,7 @@
   - [Shoshana Zuboff](https://shoshanazuboff.com/book/)
   - [Sherry Turkle](https://sherryturkle.mit.edu/)
   - [Laura Bates](https://www.laurabates.co.uk/)
+  - [Meredith Whittaker](https://ainowinstitute.org/contributor/meredith-whittaker)
 
   **Groups**
 

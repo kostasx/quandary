@@ -3,6 +3,7 @@
 ## ALGORITHMS & ARTIFICIAL INTELLIGENCE
 
   - [Karen Hao](https://karendhao.com/)
+  - [Meredith Whittaker](https://ainowinstitute.org/contributor/meredith-whittaker)
 
 ## BIG TECH
 
