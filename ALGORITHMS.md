@@ -28,6 +28,7 @@
 
   **Groups:**
 
+  - [AlgorithmWatch](https://algorithmwatch.org/en/): _"We fight for a world where algorithms and Artificial Intelligence (AI) do not weaken justice, human rights, democracy, and sustainability but strengthen them."_
   - [Data Labelers Association: Championing Fair Treatment and Empowerment for Data Labelers in the AI Industry](https://www.linkedin.com/company/data-labelers-association/)
 
 ## On Racism, Bias & Discrimination
