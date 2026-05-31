@@ -7,6 +7,9 @@
   > _"Technologies are not neutral and neither are the societies into which they are introduced."_
   > [Civics of Technology Project](https://www.civicsoftechnology.org/)
 
+  > _"It takes something more than intelligence to act intelligently."_
+  > Fyodor Dostoyevsky
+
   > _"As technology—especially computer, information, and Internet technology—permeates all aspects of our society,
   > people who understand that technology need to be part of public-policy discussions.
   > **We need technologists who work in the public interest**.
@@ -70,23 +73,25 @@
   **Researchers / Scholars**
 
   - [Andrew Iliadis](https://andrewiliadis.com/)
-  - [Robert Sparrow](https://robsparrow.com/)
-  - [Lilly Irani](https://quote.ucsd.edu/lirani/)
-  - [Zeynep Tufekci](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
-  - [Shoshana Zuboff](https://shoshanazuboff.com/book/)
-  - [Sherry Turkle](https://sherryturkle.mit.edu/)
+  - [Karen Hao](https://karendhao.com/)
   - [Laura Bates](https://www.laurabates.co.uk/)
+  - [Lilly Irani](https://quote.ucsd.edu/lirani/)
   - [Meredith Whittaker](https://ainowinstitute.org/contributor/meredith-whittaker)
+  - [Robert Sparrow](https://robsparrow.com/)
+  - [Sherry Turkle](https://sherryturkle.mit.edu/)
+  - [Shoshana Zuboff](https://shoshanazuboff.com/book/)
+  - [Zeynep Tufekci](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
 
   **Groups**
 
   - [Amnesty Tech](https://www.amnesty.org/en/tech/)
-  - [Public Interest Tech Lab](https://techlab.org/)
-  - [The Citizen Lab](https://citizenlab.ca/)
-  - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
-  - [Tactical Tech](https://tacticaltech.org/) _(A creative international non-profit dedicated to exploring the socio-political and environmental impacts of technology on society.)_
   - [Civics of Technology Project](https://www.civicsoftechnology.org/): _"The Civics of Technology (CoT) project aims to empower students and educators to critically inquire into the effects of technologies on their individual and collective lives."_
+  - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
+  - [Lighthouse](https://www.lighthousereports.com/)
   - [MediaJustice](https://mediajustice.org/): _"MediaJustice builds power to challenge how corporations and governments use media and technology to shape our collective future"_
+  - [Public Interest Tech Lab](https://techlab.org/)
+  - [Tactical Tech](https://tacticaltech.org/) _(A creative international non-profit dedicated to exploring the socio-political and environmental impacts of technology on society.)_
+  - [The Citizen Lab](https://citizenlab.ca/)
 
 ## Investigative Journalism / Public-Interest Media
 

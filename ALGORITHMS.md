@@ -16,11 +16,12 @@
 
   **Resources:**
 
-  - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
-  - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
-  - [AI Models by Epoch AI](https://epoch.ai/data/ai-models) _(A comprehensive database of over 3200 AI models)_
   - [AI Incident Database](https://incidentdatabase.ai/)
     - "The AI Incident Database is dedicated to indexing the collective history of harms or near harms realized in the real world by the deployment of artificial intelligence systems."
+  - [AI Models by Epoch AI](https://epoch.ai/data/ai-models) _(A comprehensive database of over 3200 AI models)_
+  - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
+  - [Suspicion Machines](https://www.lighthousereports.com/series/suspicion-machines/)
+  - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
 
   **Initiatives:**
 
