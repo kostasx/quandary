@@ -7,6 +7,7 @@
 
 ## BIG TECH
 
+  - [Carole Cadwalladr](https://substack.com/@carolecadwalla)
   - [Lilly Irani](https://quote.ucsd.edu/lirani/)
     > Associate Professor, Communication, Science Studies, Computer Science, Critical Gender Studies, Design Lab | UC San Diego
     >

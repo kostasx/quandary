@@ -73,6 +73,7 @@
   **Researchers / Scholars**
 
   - [Andrew Iliadis](https://andrewiliadis.com/)
+  - [Carole Cadwalladr](https://substack.com/@carolecadwalla)
   - [Karen Hao](https://karendhao.com/)
   - [Laura Bates](https://www.laurabates.co.uk/)
   - [Lilly Irani](https://quote.ucsd.edu/lirani/)
