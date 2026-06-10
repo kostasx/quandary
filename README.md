@@ -106,6 +106,10 @@
   - [The Markup](https://themarkup.org/)
   - [Brian Merchant](https://brianmerchant.org/)
 
+  **Podcasts**
+
+  - [Computer Says Maybe: A podcast about the politics of technology](https://www.themaybe.org/podcast)
+
   **Greece**
 
   - [Homo Digitalis](https://homodigitalis.gr/)
