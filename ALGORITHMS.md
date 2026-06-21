@@ -10,6 +10,7 @@
   - Watch: [The Labor that Makes AI "Magic" | Lilly Irani | AI Now 2016](https://www.youtube.com/watch?v=5vXqpc2jCKs)
   - Watch: [Virtual love - How dangerous are AI relationships? | DW Documentary](https://www.youtube.com/watch?v=xAHLK1B5ijs)
   - Watch: [Madagascar: AI Trainers (Documentary)](https://www.youtube.com/watch?v=Q7NZK6h9Tvo)
+  - Watch: [I Tracked Down the Hidden Workers Secretly Powering ChatGPT](https://www.youtube.com/watch?v=aooiDA-AsNo)
   - Watch: [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 
   - Listen: [Feminism vs the algorithm: Laura Bates sounds the alarm](https://www.youtube.com/watch?v=TZThXeXiV2Y)
