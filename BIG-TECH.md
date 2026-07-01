@@ -20,6 +20,7 @@
   - Listen: [Data Centers Are a Climate Enemy](https://www.techwontsave.us/episode/304_data_centers_are_a_climate_enemy_w_ketan_joshi)
 
   - Watch: [Exposing The Dark Side of America's AI Data Center Explosion](https://www.youtube.com/watch?v=t-8TDOFqkQA)
+  - Watch: [Erin Brockovich Is Taking On a New Issue: AI Data Centers](https://www.youtube.com/watch?v=dWNNgltZSlA)
 
   - Read: [The True Cost of Data Centers (Business Insider Series)](https://www.businessinsider.com/ai-data-center-development-true-cost-environmental-impact-2025-6)
 
