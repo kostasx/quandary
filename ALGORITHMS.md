@@ -23,6 +23,7 @@
   - [Human in the Loop: Exploring the Unintended Consequences of Generative AI in India](https://loop.digitalfutureslab.in/)
   - [Suspicion Machines](https://www.lighthousereports.com/series/suspicion-machines/)
   - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
+  - [How To Turn OFF AI Overview In Google Search](https://www.youtube.com/watch?v=qJmvO64Xxe8)
 
   **Initiatives:**
 
