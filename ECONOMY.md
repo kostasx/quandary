@@ -1,4 +1,14 @@
-# GIG ECONOMY
+# LABOUR, ECONOMY & FINANCE
+
+## FINANCE
+
+  - Read: [What is a CBDC? A beginner's guide to Central Bank Digital Currencies](https://www.theblock.co/learn/251860/what-is-a-cbdc-a-beginners-guide-to-central-bank-digital-currencies)
+
+### FINANCE | TERMINOLOGY
+
+  - **CBDC:** Central Bank Digital Currency
+
+## GIG ECONOMY
 
   **Platform & Gig Economy**
 
@@ -14,7 +24,7 @@
   >
   > [Source: Wikipedia](https://en.wikipedia.org/wiki/Platform_economy)
 
-## RESOURCES
+### GIG ECONOMY | RESOURCES
 
   - Watch: [I Tracked Down the Hidden Workers Secretly Powering ChatGPT](https://www.youtube.com/watch?v=aooiDA-AsNo)
 

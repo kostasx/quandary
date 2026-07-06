@@ -13,7 +13,7 @@
   - Watch: [Amazon, Jeff Bezos and collecting data | DW Documentary](https://www.youtube.com/watch?v=O90PShJVu58)
   - Watch: [WTF: The Rise of the Tech Broligarchy (Series)](https://www.youtube.com/playlist?list=PL-wF0vCzYZMa5t3lz6Rm6vFIWekf7knhP)
 
-  - Check: [Gig Economy](./GIG-ECONOMY.md)
+  - Check: [Gig Economy](./ECONOMY.md#gig-economy)
 
 ### DATA CENTERS
 
