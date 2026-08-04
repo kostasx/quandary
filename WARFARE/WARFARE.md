@@ -10,6 +10,7 @@
   - Watch: [The Dangerous Illusion of Precision Guidance](https://www.youtube.com/watch?v=ZrVqCzf3akA)
     - From the Documentary [Why We Fight](https://www.imdb.com/title/tt0436971/) by Eugene Jarecki
   - Watch: [The Palestine Laboratory](https://www.youtube.com/watch?v=1GvkFwpzDhI)
+  - Watch: [Step Inside Ukraine's Killhouse Academy Drone School](https://www.youtube.com/watch?v=tHeolyUrvOU)
 
 ## COMPANIES
 
