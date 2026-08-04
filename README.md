@@ -77,6 +77,7 @@
   **Researchers / Scholars**
 
   - [Andrew Iliadis](https://andrewiliadis.com/)
+  - [Brian Merchant](https://brianmerchant.org/)
   - [Carole Cadwalladr](https://substack.com/@carolecadwalla)
   - [Karen Hao](https://karendhao.com/)
   - [Laura Bates](https://www.laurabates.co.uk/)
@@ -100,15 +101,14 @@
 
 ## Investigative Journalism / Public-Interest Media
 
-  - [404 Media](https://www.404media.co/)
-  - [Ars Technica](https://arstechnica.com/)
-  - [DropSite News](https://www.dropsitenews.com/)
-  - [Forensic Architecture](https://substack.com/@forensicarchitecture) | [YouTube](https://www.youtube.com/@forensicarchitecture1967)
-  - [ProPublica](https://www.propublica.org/)
-  - [Reporters Without Borders](https://rsf.org/en)
-  - [Solomon](https://wearesolomon.com/about/)
-  - [The Markup](https://themarkup.org/)
-  - [Brian Merchant](https://brianmerchant.org/)
+  - [**404 Media**](https://www.404media.co/)
+  - [**Ars Technica**](https://arstechnica.com/)
+  - [**DropSite News**](https://www.dropsitenews.com/)
+  - [**Forensic Architecture**](https://substack.com/@forensicarchitecture) | [YouTube](https://www.youtube.com/@forensicarchitecture1967)
+  - [**ProPublica**](https://www.propublica.org/)
+  - [**Reporters Without Borders**](https://rsf.org/en)
+  - [**Solomon**](https://wearesolomon.com/about/)
+  - [**The Markup**: Challenging technology to serve the public good](https://themarkup.org/)
 
   **Podcasts**
 
