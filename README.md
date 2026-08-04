@@ -76,17 +76,19 @@
 
   **Researchers / Scholars**
 
-  - [Andrew Iliadis](https://andrewiliadis.com/)
-  - [Brian Merchant](https://brianmerchant.org/)
-  - [Carole Cadwalladr](https://substack.com/@carolecadwalla)
-  - [Karen Hao](https://karendhao.com/)
-  - [Laura Bates](https://www.laurabates.co.uk/)
-  - [Lilly Irani](https://quote.ucsd.edu/lirani/)
-  - [Meredith Whittaker](https://ainowinstitute.org/contributor/meredith-whittaker)
-  - [Robert Sparrow](https://robsparrow.com/)
-  - [Sherry Turkle](https://sherryturkle.mit.edu/)
-  - [Shoshana Zuboff](https://shoshanazuboff.com/book/)
-  - [Zeynep Tufekci](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
+  - [**Andrew Iliadis**](https://andrewiliadis.com/)
+  - [**Brian Merchant**](https://brianmerchant.org/)
+  - [**Carole Cadwalladr**](https://substack.com/@carolecadwalla)
+  - [**Karen Hao**](https://karendhao.com/)
+  - [**Kashmir Hill**: A reporter and writer exploring the unexpected ways technology is changing our lives](https://www.kashmirhill.com/)
+  - [**Laura Bates**](https://www.laurabates.co.uk/)
+  - [**Lilly Irani**](https://quote.ucsd.edu/lirani/)
+  - [**Meredith Whittaker**](https://ainowinstitute.org/contributor/meredith-whittaker)
+  - [**Robert Sparrow**](https://robsparrow.com/)
+  - [**Sherry Turkle**](https://sherryturkle.mit.edu/)
+  - [**Shoshana Zuboff**](https://shoshanazuboff.com/book/)
+  - [**Surya Mattu**: Senior Engineer for Data Journalism & Investigations](https://www.suryamattu.com/#/)
+  - [**Zeynep Tufekci**](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
 
   **Groups**
 
