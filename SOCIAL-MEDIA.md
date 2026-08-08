@@ -6,3 +6,8 @@
   **Tools**
 
   - [How to remove yourself from the data broker websites (deleteme DIY guides)](https://www.deleteme.com/opt-out-guides/)
+
+## GLOSSARY
+
+  - **PYMK:** People You May Know.
+    - A class of algorithms that regularly shows you an updated list of user candidates that you’re most likely to connect with on a social network like Facebook or LinkedIn
