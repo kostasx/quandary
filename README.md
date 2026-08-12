@@ -89,6 +89,7 @@
   - [**Shoshana Zuboff**](https://shoshanazuboff.com/book/)
   - [**Surya Mattu**: Senior Engineer for Data Journalism & Investigations](https://www.suryamattu.com/#/)
   - [**Zeynep Tufekci**](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
+  - [**Janet Vertesi**: Sociologist of Science & Technology](https://janet.vertesi.com)
 
   **Groups**
 
