@@ -39,6 +39,7 @@
   **Organizations & Public-Interest Groups**
 
   - [Electronic Frontier Foundation](https://www.eff.org/): "The leading nonprofit defending digital privacy, free speech, and innovation."
+  - [noyb](https://noyb.eu/): European Center for Digital Rights
 
   ![](../assets/PRIVACY/eff-logo-stack-black.svg)
 
