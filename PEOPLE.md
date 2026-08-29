@@ -13,6 +13,11 @@
     >
     > _"Broadly, my research investigates the cultural politics of high-tech work practices with a focus on how actors produce “innovation” cultures."_
 
+## DATA CENTERS
+
+  - [Laís Martins](https://www.linkedin.com/in/laisfmartins/)
+  - [Pablo Jiménez Arandia](https://www.linkedin.com/in/pablojimenezarandia/)
+
 ## PRIVACY
 
   - [Bruce Schneier](https://www.schneier.com/)
