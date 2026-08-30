@@ -12,6 +12,10 @@
   - Watch: [The Palestine Laboratory](https://www.youtube.com/watch?v=1GvkFwpzDhI)
   - Watch: [Step Inside Ukraine's Killhouse Academy Drone School](https://www.youtube.com/watch?v=tHeolyUrvOU)
 
+  **Initiatives:**
+
+  - [**Stop Killer AI**](https://stopkiller.ai/)
+
 ## COMPANIES
 
   - [Anduril](https://www.anduril.com/)

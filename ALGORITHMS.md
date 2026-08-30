@@ -29,6 +29,7 @@
 
   - [**AI Accountability Network**: The Artificial Intelligence Accountability Network supports and brings together journalists reporting on AI and with AI globally.](https://pulitzercenter.org/journalism/initiatives/ai-accountability-network)
   - [**QuitGPT**](https://quitgpt.org/)
+  - [**Stop Killer AI**](https://stopkiller.ai/)
 
   **Groups:**
 
