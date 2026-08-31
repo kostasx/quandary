@@ -98,6 +98,8 @@
   - [Amnesty Tech](https://www.amnesty.org/en/tech/)
   - [Civics of Technology Project](https://www.civicsoftechnology.org/): _"The Civics of Technology (CoT) project aims to empower students and educators to critically inquire into the effects of technologies on their individual and collective lives."_
   - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
+  - [Data & Society: Independent Research and Policy for the Public Interest](https://datasociety.net/)
+    - [YouTube Channel](https://www.youtube.com/@datasocietyresearchinstitu1085)
   - [Lighthouse](https://www.lighthousereports.com/)
   - [MediaJustice](https://mediajustice.org/): _"MediaJustice builds power to challenge how corporations and governments use media and technology to shape our collective future"_
   - [Public Interest Tech Lab](https://techlab.org/)
