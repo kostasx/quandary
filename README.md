@@ -28,6 +28,8 @@
 
 # _"More than machinery, we need humanity."_
 
+![](./assets/CtrlEsc.jpg)
+
 ## On Cybersecurity
 
   - Check [CYBERSECURITY.md](./CYBERSECURITY.md)
