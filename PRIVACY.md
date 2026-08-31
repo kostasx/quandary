@@ -10,6 +10,7 @@
 
 ## RESOURCES
 
+  - Watch: [How to Opt Out: Lessons from 14 Years of Evading Surveillance Capitalism by Janet Vertesi](https://www.youtube.com/watch?v=ilXLiH6Rdx0)
   - Watch: [Latanya Sweeney: When anonymized data is anything but anonymous](https://www.youtube.com/watch?v=tivCK_fBBfo)
   - Watch: ['State of Surveillance' with Edward Snowden](https://www.youtube.com/watch?v=ucRWyGKBVzo)
 
@@ -60,6 +61,7 @@
   - **Computer Forensics:** _"Computer forensics (also known as computer forensic science) is a branch of digital forensic science pertaining to evidence found in computers and digital storage media."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Computer_forensics) (See: `Digital Forensics`)
   - **Digital Forensics:** _"Digital forensics (sometimes known as digital forensic science) is a branch of forensic science encompassing the recovery, investigation, examination, and analysis of material found in digital devices."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Digital_forensics) (See: `Computer Forensics`)
   - [Third-party doctrine](https://en.wikipedia.org/wiki/Third-party_doctrine)
+  - [**Surveillance Capitalism**: _"Surveillance capitalism is a concept in `political economics` which denotes the widespread collection and commodification of personal data by corporations. "_](https://en.wikipedia.org/wiki/Surveillance_capitalism)
 
 ## BIBLIOGRAPHY
 
