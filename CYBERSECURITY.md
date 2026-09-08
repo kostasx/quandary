@@ -6,3 +6,5 @@
 
 - **End-to-End Encryption**: _"End-to-end encryption (E2EE) is a method of implementing a secure communication system where only the sender and intended recipient can read the messages."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/End-to-end_encryption)
     - Watch: [What is end-to-end encryption and how does it work?](https://www.youtube.com/watch?v=c2OkOckSD20)
+
+- [**Wardriving**](https://en.wikipedia.org/wiki/Wardriving): _"The art of searching for Wi-Fi wireless networks as well as cell towers, usually from a moving vehicle, using a laptop or smartphone."_
