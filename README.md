@@ -100,7 +100,7 @@
   - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
   - [Data & Society: Independent Research and Policy for the Public Interest](https://datasociety.net/)
     - [YouTube Channel](https://www.youtube.com/@datasocietyresearchinstitu1085)
-  - [Lighthouse](https://www.lighthousereports.com/)
+  - [Ludlow Institute](https://www.ludlowinstitute.org/): _"Advancing Human Freedom through Technology"_
   - [MediaJustice](https://mediajustice.org/): _"MediaJustice builds power to challenge how corporations and governments use media and technology to shape our collective future"_
   - [Public Interest Tech Lab](https://techlab.org/)
   - [Tactical Tech](https://tacticaltech.org/) _(A creative international non-profit dedicated to exploring the socio-political and environmental impacts of technology on society.)_
@@ -112,6 +112,7 @@
   - [**Ars Technica**](https://arstechnica.com/)
   - [**DropSite News**](https://www.dropsitenews.com/)
   - [**Forensic Architecture**](https://substack.com/@forensicarchitecture) | [YouTube](https://www.youtube.com/@forensicarchitecture1967)
+  - [**Lighthouse**](https://www.lighthousereports.com/)
   - [**ProPublica**](https://www.propublica.org/)
   - [**Reporters Without Borders**](https://rsf.org/en)
   - [**Solomon**](https://wearesolomon.com/about/)
