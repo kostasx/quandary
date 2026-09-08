@@ -80,6 +80,7 @@
 
   - [**Andrew Iliadis**](https://andrewiliadis.com/)
   - [**Brian Merchant**](https://brianmerchant.org/)
+  - [**Burcu Baykurt**](https://www.baykurt.org/): _"My writing and research examine technologies of statecraft from smart cities to tech nationalism to the use of automated decision systems in public agencies."_
   - [**Carole Cadwalladr**](https://substack.com/@carolecadwalla)
   - [**Karen Hao**](https://karendhao.com/)
   - [**Kashmir Hill**: A reporter and writer exploring the unexpected ways technology is changing our lives](https://www.kashmirhill.com/)
