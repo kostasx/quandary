@@ -2,7 +2,7 @@
 
 > _"Then the "right to life" served only to protect the subject from battery in its various forms; liberty meant freedom from actual restraint; and the right to property secured to the individual his lands and his cattle. Later, there came a recognition of man's spiritual nature, of his feelings and his intellect. Gradually the scope of these legal rights broadened; and **now the right to life has come to mean the right to enjoy life--the right to be let alone**, the right to liberty secures the exercise of extensive civil privileges; and the term "property" has grown to comprise every form of possession-- intangible, as well as tangible."_ 
 >
-> [The Right to Privacy](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
+> [_The Right to Privacy_ ~ Louis D. Brandeis](https://law.louisville.edu/lawlibrary/special-collections/louis-d-brandeis-collection/writings-louis-d-brandeis/right-privacy)
 
 ## DIGITAL FORENSICS
 
