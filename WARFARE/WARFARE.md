@@ -30,6 +30,7 @@
 
 ## TERMINOLOGY
 
+  - [**LAWS (Lethal Autonomous Weapon Systems)**](https://disarmament.unoda.org/en/our-work/emerging-challenges/lethal-autonomous-weapon-systems): _"[T]ypes of military drones or military robots, that can independently search for and engage targets based on programmed constraints and descriptions."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)
   - **C3: Command, Control and Communication**
   - **EW: Electronic Warfare**
   - **FPV: First-Person View**
