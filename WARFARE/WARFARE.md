@@ -15,6 +15,7 @@
   **Initiatives:**
 
   - [**Stop Killer AI**](https://stopkiller.ai/)
+  - [**Stop Killer Robots**](https://stopkillerrobots.org/)
 
 ## COMPANIES
 
