@@ -45,7 +45,8 @@
 
   **Data Centers**
 
-  - **Power Usage Effectiveness (PUE):** _"PUE measures the energy efficiency of data centers"_ [Source](https://www.datacenterknowledge.com/sustainability/what-is-data-center-pue-defining-power-usage-effectiveness)
+  - [**PUE** (Power Usage Effectiveness)](https://www.datacenterknowledge.com/sustainability/what-is-data-center-pue-defining-power-usage-effectiveness): _"PUE measures the energy efficiency of data centers"_ [Source](https://www.datacenterknowledge.com/sustainability/what-is-data-center-pue-defining-power-usage-effectiveness)
+  - [**SMR** (Small Modular Reactors)](https://en.wikipedia.org/wiki/Small_modular_reactor)
 
 ## BIBLIOGRAPHY
 
