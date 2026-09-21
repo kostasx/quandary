@@ -60,12 +60,13 @@
 
   - [**ALPR** (Automatic License Plate Reader)](https://en.wikipedia.org/wiki/Automatic_number-plate_recognition): _"A technology that uses optical character recognition on images to read vehicle registration plates."_
   - [**Computer Forensics**](https://en.wikipedia.org/wiki/Computer_forensics): _"Computer forensics (also known as computer forensic science) is a branch of digital forensic science pertaining to evidence found in computers and digital storage media."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Computer_forensics) (See: `Digital Forensics`)
-  - [**Digital Forensics**](https://en.wikipedia.org/wiki/Digital_forensics): _"Digital forensics (sometimes known as digital forensic science) is a branch of forensic science encompassing the recovery, investigation, examination, and analysis of material found in digital devices."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Digital_forensics) (See: `Computer Forensics`)
   - [**DFR** (Drone as First Responder)](https://www.motorolasolutions.com/en_us/blog/drone-first-responder): _"A UAV (Unmanned Aircraft System or "drone") pre-positioned at a launch station that enables rapid deployment to an incident often before emergency response personnel."_ [Source: DHS](https://www.dhs.gov/science-and-technology/saver/drone-first-responder)
+  - [**Digital Forensics**](https://en.wikipedia.org/wiki/Digital_forensics): _"Digital forensics (sometimes known as digital forensic science) is a branch of forensic science encompassing the recovery, investigation, examination, and analysis of material found in digital devices."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/Digital_forensics) (See: `Computer Forensics`)
   - [**FOIA**: Freedom of Information Act](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
+  - [**GDPR** (General Data Protection Regulation)](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation): _"A European Union regulation on information privacy in the European Union (EU) and the European Economic Area (EEA)."_
   - [**PTZ** (Pan-Tilt-Zoom Cameras)](https://en.wikipedia.org/wiki/Pan%E2%80%93tilt%E2%80%93zoom_camera): _"A mechanical camera capable of panning horizontally (from left to right), tilting vertically (up and down), and zooming (for magnification)."_
-  - [**Third-party doctrine**](https://en.wikipedia.org/wiki/Third-party_doctrine)
   - [**Surveillance Capitalism**: _"Surveillance capitalism is a concept in `political economics` which denotes the widespread collection and commodification of personal data by corporations. "_](https://en.wikipedia.org/wiki/Surveillance_capitalism)
+  - [**Third-party doctrine**](https://en.wikipedia.org/wiki/Third-party_doctrine)
 
 ## BIBLIOGRAPHY
 
