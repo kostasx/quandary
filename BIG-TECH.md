@@ -2,6 +2,7 @@
 
   **Case Studies:**
 
+  - [Meta](./BIG-TECH/META.md)
   - [Palantir](./BIG-TECH/PALANTIR.md)
 
 ## RESOURCES
