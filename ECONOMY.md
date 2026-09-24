@@ -1,5 +1,7 @@
 # LABOUR, ECONOMY & FINANCE
 
+- Listen: [Will new technologies make or break our jobs?](https://www.youtube.com/watch?v=5hvD8pwSuog) by Sarah O’Connor
+
 ## FINANCE
 
   - Read: [What is a CBDC? A beginner's guide to Central Bank Digital Currencies](https://www.theblock.co/learn/251860/what-is-a-cbdc-a-beginners-guide-to-central-bank-digital-currencies)
