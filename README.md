@@ -106,6 +106,7 @@
   - [Public Interest Tech Lab](https://techlab.org/)
   - [Tactical Tech](https://tacticaltech.org/) _(A creative international non-profit dedicated to exploring the socio-political and environmental impacts of technology on society.)_
   - [The Citizen Lab](https://citizenlab.ca/)
+  - [The Citizens](https://the-citizens.com/): _"A not-for-profit journalism and campaigning organisation with a focus on technology and politics."_
 
 ## Investigative Journalism / Public-Interest Media
 
