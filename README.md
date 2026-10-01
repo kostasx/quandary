@@ -82,6 +82,7 @@
   - [**Brian Merchant**](https://brianmerchant.org/)
   - [**Burcu Baykurt**](https://www.baykurt.org/): _"My writing and research examine technologies of statecraft from smart cities to tech nationalism to the use of automated decision systems in public agencies."_
   - [**Carole Cadwalladr**](https://substack.com/@carolecadwalla): _"An investigative journalist who’s spent a decade reporting on the collision of technology and democracy"_
+  - [**Janet Vertesi**: Sociologist of Science & Technology](https://janet.vertesi.com)
   - [**Karen Hao**](https://karendhao.com/)
   - [**Kashmir Hill**: A reporter and writer exploring the unexpected ways technology is changing our lives](https://www.kashmirhill.com/)
   - [**Laura Bates**](https://www.laurabates.co.uk/)
@@ -91,8 +92,8 @@
   - [**Sherry Turkle**](https://sherryturkle.mit.edu/)
   - [**Shoshana Zuboff**](https://shoshanazuboff.com/book/)
   - [**Surya Mattu**: Senior Engineer for Data Journalism & Investigations](https://www.suryamattu.com/#/)
+  - [**Wendy Liu**](https://dellsystem.me/): Author of [Abolish Silicon Valley](https://abolishsiliconvalley.com/)
   - [**Zeynep Tufekci**](https://ai.sociology.princeton.edu/people/zeynep-tufekci)
-  - [**Janet Vertesi**: Sociologist of Science & Technology](https://janet.vertesi.com)
 
   **Groups**
 
