@@ -31,7 +31,11 @@
   - [Data Center Watch](https://www.datacenterwatch.org/)
   - [Frontier Data Centers by Epoch AI](https://epoch.ai/data/data-centers) _(Open database of large AI data centers, computing power, power use, and construction timelines)_
   - [DataCenter Knowledge](https://www.datacenterknowledge.com/)
-  
+
+  **Resources (Greece):**
+
+  - [Τεχνητή Νοημοσύνη, Data Centers και Ηλεκτρική Ενέργεια: Ευκαιρίες και Προκλήσεις για την Ελλάδα](https://www.1830lab.com/wp-content/uploads/2026/03/1830_DATA_CENTERS_FINAL_WEB.pdf) by [1830lab](https://www.1830lab.com/)
+
   **FAQ**
 
   - [Which factors set the electricity price?](./assets/BIG-TECH/DOCS/Which%20factors%20set%20the%20electricity%20price.md)
