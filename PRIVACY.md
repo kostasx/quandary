@@ -67,6 +67,7 @@
   - [**FRT**: Facial Recognition Technology](https://en.wikipedia.org/wiki/Facial_recognition_system): _"Automated identification of individuals based on their unique facial features"_
   - [**FOIA**: Freedom of Information Act](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
   - [**GDPR** (General Data Protection Regulation)](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation): _"A European Union regulation on information privacy in the European Union (EU) and the European Economic Area (EEA)."_
+  - [**PII** (Personally Identifiable Information)](https://en.wikipedia.org/wiki/Personal_data): _"Any information related to an identifiable person."_
   - [**PTZ** (Pan-Tilt-Zoom Cameras)](https://en.wikipedia.org/wiki/Pan%E2%80%93tilt%E2%80%93zoom_camera): _"A mechanical camera capable of panning horizontally (from left to right), tilting vertically (up and down), and zooming (for magnification)."_
   - [**RTBF** (Right To Be Forgotten)](https://en.wikipedia.org/wiki/Right_to_be_forgotten): _"The right to erasure — also called the right to be forgotten — is a legal right granted to individuals in certain jurisdictions to request that a company delete personal data it holds about them."_ [Source](https://qz.com/smartphone-privacy-explained)
   - [**Surveillance Capitalism**: _"Surveillance capitalism is a concept in `political economics` which denotes the widespread collection and commodification of personal data by corporations. "_](https://en.wikipedia.org/wiki/Surveillance_capitalism)
