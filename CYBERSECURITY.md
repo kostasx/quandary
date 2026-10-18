@@ -2,6 +2,8 @@
 
 ## TERMINOLOGY
 
+- [**Cyberattack**](https://en.wikipedia.org/wiki/Cyberattack): _"[In computer science], an attack targeted at computer systems. It occurs when there is an unauthorized action against computer infrastructure that compromises the confidentiality, integrity, or availability of its content."_
+
 - **Dynamic Application Security Testing (DAST)**: "The process of analyzing a web application through the front-end to find vulnerabilities through simulated attacks. This type of approach evaluates the application from the “outside in” by attacking an application like a malicious user would." [Source](https://www.opentext.com/what-is/dast)
 
 - **End-to-End Encryption**: _"End-to-end encryption (E2EE) is a method of implementing a secure communication system where only the sender and intended recipient can read the messages."_ [Source: Wikipedia](https://en.wikipedia.org/wiki/End-to-end_encryption)
@@ -14,3 +16,5 @@
 - [**Spyware**](https://en.wikipedia.org/wiki/Spyware): _"Any `malware` that aims to gather information about a person or organization and send it to another entity in a way that harms the user by violating their privacy, endangering their device's security, or other means."_
 
 - [**Wardriving**](https://en.wikipedia.org/wiki/Wardriving): _"The art of searching for Wi-Fi wireless networks as well as cell towers, usually from a moving vehicle, using a laptop or smartphone."_
+
+- [**Zero-Click** (Attack/Exploit)](): A cyberattack that can compromise a device such as a smartphone or a computer without any action or interaction from its owner. 
