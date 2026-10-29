@@ -48,7 +48,10 @@
 
 ## TERMINOLOGY
 
+  - **Eliza Effect**: _"The Eliza Effect is the propensity for humans to ascribe understanding and intelligence to computer systems."_" [(Source)](https://sites.google.com/view/elizaarchaeology/blog/3-weizenbaums-secretary)
+
   - **Gait Recognition:** _"A gait recognition (software) system uses the shape of the human body and the way it moves in order to identify it."_ [(Source)](https://recfaces.com/articles/what-is-gait-recognition)
+
   - **Mathwashing:** _"The widespread misconception that because math is involved, algorithms are automatically neutral and companies and organizations are able to avoid responsibility by hiding behind algorithms."_
     - [mathwashing.com](https://www.mathwashing.com/)
 
