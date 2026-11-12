@@ -26,6 +26,11 @@
 
   - Read: [The True Cost of Data Centers (Business Insider Series)](https://www.businessinsider.com/ai-data-center-development-true-cost-environmental-impact-2025-6)
 
+  **Researchers / Scholars**
+
+  - [Laís Martins](https://pulitzercenter.org/people/lais-martins)
+  - [Pablo Jiménez Arandia](https://pablojimenezarandia.com/en/ai-infrastructure/)
+
   **Resources:**
 
   - [Data Center Watch](https://www.datacenterwatch.org/)
