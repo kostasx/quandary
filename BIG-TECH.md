@@ -40,6 +40,7 @@
   **Resources (Greece):**
 
   - [Τεχνητή Νοημοσύνη, Data Centers και Ηλεκτρική Ενέργεια: Ευκαιρίες και Προκλήσεις για την Ελλάδα](https://www.1830lab.com/wp-content/uploads/2026/03/1830_DATA_CENTERS_FINAL_WEB.pdf) by [1830lab](https://www.1830lab.com/)
+  - [ΝΟΜΟΣ ΥΠ’ ΑΡΙΘΜ. 5069/2023: Όροι δόμησης, κατασκευής, επιτρεπόμενες χρήσεις γης για κέντρα δεδομένων, κ.α.](https://www.elinyae.gr/sites/default/files/2023-11/193a_2023.pdf)
 
   **FAQ**
 
