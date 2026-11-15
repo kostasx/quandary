@@ -25,6 +25,10 @@
   - [The Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
   - [How To Turn OFF AI Overview In Google Search](https://www.youtube.com/watch?v=qJmvO64Xxe8)
 
+  **Papers:**
+
+  - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
+
   **Initiatives:**
 
   - [**AI Accountability Network**: The Artificial Intelligence Accountability Network supports and brings together journalists reporting on AI and with AI globally.](https://pulitzercenter.org/journalism/initiatives/ai-accountability-network)
