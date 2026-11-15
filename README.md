@@ -78,6 +78,7 @@
 
   **Researchers / Scholars**
 
+  - [**Abeba Birhane (Dr.)**](https://www.tcd.ie/scss/people/academic-staff/birhanea/): _"AI accountability research which encompasses from systematic examination of the AI ecology and governance structures, to execution of algorithmic audits. Central to her research is challenging and dismantling societal and historical inequalities and power asymmetries; holding responsible bodies accountable; and paving the way for a future marked by just and equitable AI systems that work for all."_
   - [**Andrew Iliadis**](https://andrewiliadis.com/)
   - [**Brian Merchant**](https://brianmerchant.org/)
   - [**Burcu Baykurt**](https://www.baykurt.org/): _"My writing and research examine technologies of statecraft from smart cities to tech nationalism to the use of automated decision systems in public agencies."_
