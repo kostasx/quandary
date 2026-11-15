@@ -99,6 +99,7 @@
   **Groups**
 
   - [AIAL: AI Accountability Lab _(Trinity College Dublin)_](https://aial.ie/): _"Ensuring that the wider AI ecology — from research and product development, to regulation — centres public interest, particularly, the most marginalised and disenfranchised in society."_ 
+  - [AlgorithmWatch](https://algorithmwatch.org/en/): _"We fight for a world where algorithms and Artificial Intelligence (AI) do not weaken justice, human rights, democracy, and sustainability but strengthen them"_
   - [Amnesty Tech](https://www.amnesty.org/en/tech/)
   - [Civics of Technology Project](https://www.civicsoftechnology.org/): _"The Civics of Technology (CoT) project aims to empower students and educators to critically inquire into the effects of technologies on their individual and collective lives."_
   - [Critical Internet Studies Institute](https://www.criticalinternet.org/): _"The CISI develops cutting-edge research and educational programs to advance public knowledge of emerging technologies and the paradoxes of innovation."_
